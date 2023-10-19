@@ -53,7 +53,7 @@ wav 파일을 liborasa 라이브러리를 사용하여 시간-주파수 그래�
     2. pip3 install -r requirements/base.txt <br>
 7. secrets.json 파일 생성
    ```bash
-   ├── CSDServer
+    ├── CSDServer
     │   ├── __init__.py
     │   ├── __pycache__
     │   ├── asgi.py
