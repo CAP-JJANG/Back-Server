@@ -1,6 +1,11 @@
-# OSS Notice | CSD-Server #
+이 고지문은 주식회사 카카오의 OLIVE Platform 을 이용하여 작성되었습니다.
+고지문은 참고용으로 제공되는 것으로서, 카카오는 고지문 내용의 정확성, 신뢰도 등에 대해 어떠한 보증도 하지 않습니다.
+사용자는 전적으로 자기 책임 하에 OLIVE Platform 과 고지문을 사용하고, 카카오는 이와 관련하여 사용자 및 제3자에 대해 어떠한 책임도 지지 않습니다.
 
-This application is Copyright © (CAP-JJANG). All rights reserved.
+
+# OSS Notice | CSDServer #
+
+This application is Copyright © CAP-JJANG. All rights reserved.
 
 The following sets forth attribution notices for third party software that may be contained in this application.
 
@@ -60,14 +65,6 @@ Copyright 2019 TAHRI Ahmed R
 
 MIT License
 
- **contourpy**
-
-https://github.com/contourpy/contourpy
-
-Copyright 2021-2023, ContourPy Developers. .
-
-BSD 3-Clause "New" or "Revised" License
-
  **Cycler**
 
 http://github.com/matplotlib/cycler
@@ -118,14 +115,6 @@ Copyright 2017 - 2019, Cristian V. <cristi@cvjd.me>
 
 BSD 3-Clause "New" or "Revised" License
 
- **exceptiongroup**
-
-https://github.com/agronholm/exceptiongroup
-
-Copyright 2022 Alex Gr&ouml;nholm
-
-MIT License
-
  **executing**
 
 https://github.com/alexmojaki/executing
@@ -139,16 +128,6 @@ MIT License
 http://github.com/fonttools/fonttools
 
 Copyright 2017 Just van Rossum
-
-MIT License
-
- **Gunicorn**
-
-https://github.com/benoitc/gunicorn
-
-Copyright 2009-2018 Beno&icirc;t Chesneau <benoitc@e-engura.org>
-
-Copyright 2009-2015 Paul J. Davis <paul.joseph.davis@gmail.com>
 
 MIT License
 
@@ -203,22 +182,6 @@ BSD 3-Clause "New" or "Revised" License
 https://github.com/nucleic/kiwi
 
 Copyright 2013, Nucleic Development Team
-
-BSD 3-Clause "New" or "Revised" License
-
- **latformdirs**
-
-https://github.com/platformdirs/platformdirs
-
-Copyright 2010-202x The platformdirs developers
-
-MIT License
-
- **lazy\_loader**
-
-[https://github.com/scientific-python/lazy\_loader][https_github.com_scientific-python_lazy_loader]
-
-Copyright 2022--2023, Scientific Python project .
 
 BSD 3-Clause "New" or "Revised" License
 
@@ -1159,6 +1122,5 @@ This Source Code Form is "Incompatible With Secondary Licenses", as defined by t
 
 
 [https_github.com_ousret_charset_normalizer]: https://github.com/ousret/charset_normalizer
-[https_github.com_scientific-python_lazy_loader]: https://github.com/scientific-python/lazy_loader
 [http_github.com_alexmojaki_pure_eval]: http://github.com/alexmojaki/pure_eval
 [http_github.com_alexmojaki_stack_data]: http://github.com/alexmojaki/stack_data
