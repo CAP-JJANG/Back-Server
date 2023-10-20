@@ -5,7 +5,7 @@ from .base import *
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False  # 운영하는 서버
 
-ALLOWED_HOSTS = ['54.180.116.175', '*']
+ALLOWED_HOSTS = ['*']
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
