@@ -25,6 +25,7 @@ CSD Server receives the sound as a request and converts it into a spectrogram im
 ## 🦾 주요 기술
 **Server - Django**
 * PyCharm IDE
+* Python 3.9.13
 * Django 4.2.5
 * Djangorestframework 3.14.0
 * Librosa 0.10.1
