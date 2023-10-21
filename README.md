@@ -1,10 +1,10 @@
 ## :raised_hands: 소개
-**[ENG]**
+**[ENG]**  
 CSD Server receives the sound as a request and converts it into a spectrogram image to run the model and output the result value.
 
 <br>
 
-**[KOR]**
+**[KOR]**  
 소리를 요청으로 받고 스펙트로그램 이미지로 변환해 모델을 돌리고 예측값을 출력해주는 CSDServer 입니다. 
 
 <br><br>
@@ -24,17 +24,17 @@ CSD Server receives the sound as a request and converts it into a spectrogram im
 <br><br>
 ## 🦾 주요 기술
 **Server - Django**
-* PyCharm IDE
-* Python 3.9.13
-* Django 4.2.5
-* Djangorestframework 3.14.0
-* Librosa 0.10.1
-* Matplotlib 3.7.2
-* Numpy 1.25.2
-* Pillow 10.0.1
-* Pydub 0.25.1
-* Torch 1.13.1
-* Torchvision 0.14.1
+* PyCharm: IDE
+* Python: 3.9.13
+* Django: 4.2.5
+* Djangorestframework: 3.14.0
+* Librosa: 0.10.1
+* Matplotlib: 3.7.2
+* Numpy: 1.25.2
+* Pillow: 10.0.1
+* Pydub: 0.25.1
+* Torch: 1.13.1
+* Torchvision: 0.14.1
 
 <br><br>
 ## 🔗 서비스 아키텍처
@@ -77,20 +77,42 @@ CSDServer
 ## ⭐️ 설치 방법
 1. clone [github 리포지토리 주소]
 2. cd CSD-Server/CSDServer
-3. 가상환경 생성
-    1. python -m venv venv 또는 python3 -m venv venv
+2. 가상환경 생성
+   ```
+   python -m venv venv
+   ```
+   또는
+   
+   ```
+   python3 -m venv venv
+   ```
 4. 가상환경 실행
-    1. Windows
-        1. venv\Scripts\activate
-    2. macOS 및 Linux
-        1. source venv/bin/activate
+    - Windows
+       ```
+       venv\Scripts\activate
+       ```
+    - macOS 및 Linux
+       ```
+       source venv/bin/activate
+       ```
 5. pip 최신버전으로 업그레이드
-   python -m pip install --upgrade pip
+   ```
+   python -m pip install —upgrade pip
+   ```
     또는
-   python3 -m pip install --upgrade pip
-6. 패키지 설치
-    1. pip install -r requirements.txt
-    2. pip3 install -r requirements.txt <br>
+    
+   ```
+   python3 -m pip install —upgrade pip
+   ```
+7. 패키지 설치
+   ```
+   pip install -r requirements.txt
+   ```
+   또는
+   
+   ```
+   pip3 install -r requirements.txt
+   ```
 7. secrets.json 파일 생성
    ```bash
     ├── CSDServer
@@ -106,17 +128,27 @@ CSDServer
     ├── requirements
     ├── secrets.json
     └── static
-    ```
+   ```
    django 프로젝트를 생성했을 때 settings.py 파일 안에 있는 SECRET_KEY를 가지고 
     {"SECRET_KEY" : ( secret key 입력 )} 형태로 secrets.json 파일에 작성합니다. 
 8. migration
-    1. python manage.py makemigrations
-    2. python manage.py migrate
-    또는
-    1. python3 manage.py makemigrations
-    2. python3 manage.py migrate
+   ```
+   python manage.py makemigrations
+   python manage.py migrate
+   ```
+   또는
+   ```
+   python3 manage.py makemigrations
+   python3 manage.py migrate
+   ```
 10. 로컬 실행
-    1. python manage.py runserver 또는 python3 manage.py runserver
+    ```
+    python manage.py runserver
+    ```
+    또는
+    ```
+    python3 manage.py runserver
+    ```
 
 <br><br>
 ## 👏 API ENDPOINT
