@@ -568,7 +568,7 @@ APPENDIX: How to apply the Apache License to your work.
 
 To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!)  The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2023 CAP-JJANG
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -586,7 +586,7 @@ limitations under the License.
 # BSD 2-Clause "Simplified" License #
 
 ``````````
-Copyright (c) <year> <owner> . All rights reserved.
+Copyright (c) 2023 CAP-JJANG . All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
@@ -600,7 +600,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 # BSD 3-Clause "New" or "Revised" License #
 
 ``````````
-Copyright (c) <year> <owner> . All rights reserved.
+Copyright (c) 2023 CAP-JJANG . All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
@@ -774,7 +774,7 @@ To apply these terms, attach the following notices to the library. It is safest 
 
 <one line to give the library's name and an idea of what it does.>
 
-Copyright (C) <year> <name of author>
+Copyright (C) 2023 CAP-JJANG
 
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
 
@@ -930,7 +930,7 @@ Agreement.
 ``````````
 MIT License
 
-Copyright (c) <year> <copyright holders>
+Copyright (c) 2023 CAP-JJANG
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
