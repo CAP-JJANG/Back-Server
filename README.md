@@ -97,12 +97,12 @@ CSDServer
        ```
 5. pip 최신버전으로 업그레이드
    ```
-   python -m pip install —upgrade pip
+   python -m pip install —-upgrade pip
    ```
     또는
     
    ```
-   python3 -m pip install —upgrade pip
+   python3 -m pip install —-upgrade pip
    ```
 7. 패키지 설치
    ```
@@ -115,6 +115,7 @@ CSDServer
    ```
 7. secrets.json 파일 생성
    ```bash
+   CSDServer
     ├── CSDServer
     │   ├── __init__.py
     │   ├── __pycache__
